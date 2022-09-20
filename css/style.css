@@ -1,0 +1,44 @@
+#deneme{
+    color: red;
+}
+#chartContainer2{
+    width: 250px;
+    height: 300px; 
+
+}
+#chartContainer3{
+  width: 250px;
+  height: 300px; 
+
+}
+
+#chartContainer{
+    width: 400px;
+    height: 270px; 
+
+}
+
+.vertical-menu {
+   max-width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color: #eee; 
+    color: black; 
+    display: block;
+    padding: 12px; 
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+  .vertical-menu a.actived {
+    background-color:black;
+    color: white;
+  }
+  .vertical-menu ul a:visited{
+    background-color:black;
+    color: white;
+  }
